@@ -1,0 +1,29 @@
+{
+  "name": "repotool-plugin-circle",
+  "version": "0.0.0",
+  "description": "Automatically set up CircleCI with repotool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmoon/repotool-plugin-circle.git"
+  },
+  "keywords": [
+    "setup",
+    "ci",
+    "circleci",
+    "circle"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmoon/repotool-plugin-circle/issues"
+  },
+  "homepage": "https://github.com/justmoon/repotool-plugin-circle#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "js-yaml": "^3.6.1"
+  }
+}
